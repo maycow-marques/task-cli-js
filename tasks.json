@@ -1,0 +1,14 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "task": "Comprar comida",
+      "status": "in-progress"
+    },
+    {
+      "id": 3,
+      "task": "Estudar",
+      "status": "to-do"
+    }
+  ]
+}
